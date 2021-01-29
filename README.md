@@ -1,6 +1,6 @@
 # skinfosec_python_project
 sk인포섹 - 파이썬 모듈프로젝트
-작성자 : 
+작성자 : 길효민
 
 < 필독사항 >
 
